@@ -7,3 +7,13 @@
   height: 100px;
   margin-left: 20px;
 }
+
+.header__center {
+  display: flex;
+  align-items: center;
+}
+
+.img {
+  display: flex;
+  align-items: center;
+}
