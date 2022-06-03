@@ -1,5 +1,6 @@
 .header {
   display: flex;
+  justify-content: space-between;
 }
 
 .header__icon {
@@ -11,9 +12,15 @@
 .header__center {
   display: flex;
   align-items: center;
+  flex: 1;
 }
 
 .img {
+  display: flex;
+  align-items: center;
+}
+
+.header__right {
   display: flex;
   align-items: center;
 }
