@@ -6,7 +6,7 @@
 }
 
 .bannerButton {
-  background: transparent;
+  background-color: aqua;
 }
 
 .bannerButton:hover {
