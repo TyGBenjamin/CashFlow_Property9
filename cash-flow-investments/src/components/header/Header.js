@@ -23,7 +23,7 @@ function Header() {
         <BiSearch />
       </div>
       <div className="header__right">
-        <p> Property Search</p>
+        <p> Become a Host</p>
         <MdOutlineLanguage />
         <FiChevronDown />
         <Avatar src="" alt="" />
